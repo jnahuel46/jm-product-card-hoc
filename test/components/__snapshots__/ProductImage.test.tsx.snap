@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductImage should show chorrectly the component with the img of the product 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Coffe Mug"
+    className="productImg undefined"
+    src="./coffee-mug.png"
+  />
+</div>
+`;
+
+exports[`ProductImage should show chorrectly the component without img 1`] = `
+<img
+  alt="Coffe Mug"
+  className="productImg class-test"
+  src="https://random-test-img.jpg"
+/>
+`;
