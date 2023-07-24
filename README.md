@@ -1,4 +1,4 @@
-# TODO WRITE THIS README AGAIN - TEST
+# Product Card Component
 
 ## Component E.g
 
